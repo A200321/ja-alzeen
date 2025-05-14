@@ -6,8 +6,11 @@
 }
 
 body {
-  background-color: #f4f4f4;
-  direction: rtl;
+  background-image: url('images/fifa-mountains.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .main-header {
