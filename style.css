@@ -12,7 +12,7 @@ body {
 
 .main-header {
   position: relative;
-  background-image: url('images/header-bg.jpg');
+  /* background-image: url('images/header-bg.jpg'); */ /* تم تعطيل الخلفية */
   background-size: cover;
   background-position: center;
   height: 350px;
@@ -22,6 +22,7 @@ body {
   align-items: center;
   color: white;
   text-align: center;
+  background-color: #333; /* لون بديل للخلفية */
 }
 
 .main-header .overlay {
